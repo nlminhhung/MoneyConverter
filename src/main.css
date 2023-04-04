@@ -1,0 +1,47 @@
+body {
+    color: black;
+    background-color: beige;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    margin: 2rem 0;
+    letter-spacing: 3px;
+}
+App {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 90%;
+    background: var(--mainWhite);
+    padding-bottom: 2rem;
+    border-radius: 2px;
+}
+main {
+    background-color: aliceblue;
+    margin-right: 20%;
+    margin-left: 20%;
+    border: 5px solid;
+}
+
+.form {
+    position: relative;
+    
+}
+
+.form .formText {
+    text-align: center;
+    text-transform: capitalize;
+    margin: 20px;
+    letter-spacing: 1px;    
+}
+.form .dong2 {
+    
+    text-transform: capitalize;
+    margin-left: 20px;
+    letter-spacing: 1px;    
+}
+select{
+    text-align: center;
+    margin: 10px;
+}
+
